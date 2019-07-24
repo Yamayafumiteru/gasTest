@@ -1,0 +1,11 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "devDependencies": {
+    "@types/google-apps-script": "0.0.54"
+  },
+  "description": "hogehoge",
+  "repository": "fugafuga",
+  "license": "dammy"
+}
