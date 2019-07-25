@@ -1,0 +1,22 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {},
+  "devDependencies": {
+    "@types/google-apps-script": "0.0.54"
+  },
+  "description": "hogehoge",
+  "repository": {
+    "type": "git",
+    "url": "fugafuga"
+  },
+  "license": "dammy",
+  "name": "gas",
+  "version": "1.0.0",
+  "main": "Code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ""
+}
